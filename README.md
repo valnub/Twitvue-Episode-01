@@ -1,6 +1,16 @@
-# twitvue
+# Twitvue
 
-> A Vue.js project with Framework7
+> Source code for Twitvue demo app from YouTube
+
+## Configuration
+
+1. Go to app.twitter.com and register a new app
+2. Open src/twitter.js in your text editor
+3. Change this line and add your tokens:
+
+```javascript
+cb.setConsumerKey("YOURKEY", "YOURSECRET");
+```
 
 ## Build Setup
 
@@ -14,5 +24,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
