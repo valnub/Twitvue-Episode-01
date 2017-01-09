@@ -24,3 +24,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+More info and contact http://www.timo-ernst.net
