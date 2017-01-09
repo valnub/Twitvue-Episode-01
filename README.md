@@ -25,6 +25,6 @@ npm run dev
 npm run build
 ```
 
-More info and contact http://www.timo-ernst.net
+More info and contact [on my blog](https://www.timo-ernst.net/blog/2017/01/09/tutorial-create-a-twitter-app-with-vuejs-framework7-phonegap-and-webpack-episode-01/).
 
 YouTube tutorial video here: https://youtu.be/mKdLHBpYeiQ
