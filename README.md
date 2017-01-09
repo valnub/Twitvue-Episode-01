@@ -26,3 +26,5 @@ npm run build
 ```
 
 More info and contact http://www.timo-ernst.net
+
+YouTube tutorial video here: https://youtu.be/mKdLHBpYeiQ
